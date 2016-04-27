@@ -1,18 +1,18 @@
 [submodule "tk2_arm"]
 	path = tk2_arm
-	url = git@github.com:tinkerfuroc/tk2_arm.git
+	url = https://github.com/tinkerfuroc/tk2_arm.git
 [submodule "tk2_vision"]
 	path = tk2_vision
-	url = git@github.com:tinkerfuroc/tk2_vision.git
+	url = https://github.com/tinkerfuroc/tk2_vision.git
 [submodule "k2_client"]
 	path = k2_client
-	url = git@github.com:tinkerfuroc/k2_client.git
+	url = https://github.com/tinkerfuroc/k2_client.git
 [submodule "tk2_navigation"]
 	path = tk2_navigation
-	url = git@github.com:tinkerfuroc/tk2_navigation.git
+	url = https://github.com/tinkerfuroc/tk2_navigation.git
 [submodule "tk2_common"]
 	path = tk2_common
-	url = git@github.com:tinkerfuroc/tk2_common.git
+	url = https://github.com/tinkerfuroc/tk2_common.git
 [submodule "tk2_mission"]
 	path = tk2_mission
-	url = git@github.com:tinkerfuroc/tk2_mission.git
+	url = https://github.com/tinkerfuroc/tk2_mission.git
