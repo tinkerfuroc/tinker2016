@@ -10,3 +10,9 @@
 [submodule "tk2_navigation"]
 	path = tk2_navigation
 	url = git@github.com:tinkerfuroc/tk2_navigation.git
+[submodule "tk2_common"]
+	path = tk2_common
+	url = git@github.com:tinkerfuroc/tk2_common.git
+[submodule "tk2_mission"]
+	path = tk2_mission
+	url = git@github.com:tinkerfuroc/tk2_mission.git
