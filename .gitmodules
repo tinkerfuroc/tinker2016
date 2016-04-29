@@ -16,3 +16,6 @@
 [submodule "tk2_mission"]
 	path = tk2_mission
 	url = https://github.com/tinkerfuroc/tk2_mission.git
+[submodule "tk2_control"]
+	path = tk2_control
+	url = https://github.com/tinkerfuroc/tk2_control
