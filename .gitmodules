@@ -19,3 +19,6 @@
 [submodule "tk2_control"]
 	path = tk2_control
 	url = https://github.com/tinkerfuroc/tk2_control
+[submodule "tk2_audio"]
+	path = tk2_audio
+	url = https://github.com/tinkerfuroc/tk2_audio.git
