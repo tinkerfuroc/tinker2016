@@ -22,3 +22,6 @@
 [submodule "tk2_audio"]
 	path = tk2_audio
 	url = https://github.com/tinkerfuroc/tk2_audio.git
+[submodule "third_party/pocketsphinx"]
+	path = third_party/pocketsphinx
+	url = https://github.com/mikeferguson/pocketsphinx
